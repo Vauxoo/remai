@@ -1,0 +1,4 @@
+[submodule "remai"]
+	path = remai
+	url = git@git.vauxoo.com:vauxoo/remai.git
+	branch = 17.0
