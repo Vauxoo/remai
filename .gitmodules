@@ -2,3 +2,7 @@
 	path = remai
 	url = git@git.vauxoo.com:vauxoo/remai.git
 	branch = 17.0
+[submodule "psv"]
+	path = psv
+	url = git@git.vauxoo.com:addendas/psv.git
+	branch = 17.0
