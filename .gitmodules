@@ -6,3 +6,7 @@
 	path = psv
 	url = git@git.vauxoo.com:addendas/psv.git
 	branch = 17.0
+[submodule "pmt"]
+	path = pmt
+	url = git@git.vauxoo.com:addendas/pmt.git
+	branch = 17.0
